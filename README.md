@@ -1,2 +1,2 @@
 # MachineLearning-BayesianClassifier
-Implemented two different approaches to estimate the likelihood probability: Naive-Bayes classifier and the maximum likelihood estimate. 
+Implemented two different approaches to estimate the likelihood probability: Naive-Bayes classifier and the maximum likelihood estimate. To classify a given testing sample/vector x_test, I used the estimates of the likelihood probability to compute the discriminant function of each class, wi.I assigned x_test to the class with the highest discriminant function.
